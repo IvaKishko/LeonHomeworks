@@ -1,0 +1,33 @@
+
+header{
+    height: 100px;
+    border: 1px solid black;
+
+}
+
+section{
+    height: 100px;
+    border: 1px solid black;
+
+}
+footer{
+    height: 100px;
+    border: 1px solid black;
+
+}
+.big article{
+    box-sizing: border-box;
+    float: left;
+    width: 33.333333%;
+    height: 100px;
+    border: 1px solid black;
+
+}
+.small article{
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    height: 100px;
+    border: 1px solid black;
+
+}
