@@ -1,0 +1,27 @@
+
+header{
+    height: 100px;
+    border: 1px solid black;
+
+}
+
+section{
+    height: 100px;
+    border: 1px solid black;
+
+}
+footer{
+    height: 100px;
+    border: 1px solid black;
+
+}
+
+article{
+    float: left;
+    height: 100px;
+    width: 16.6666666%;
+    border: 1px solid black;
+}
+section .two{
+    width: 49%;
+}
